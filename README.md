@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Indrajeet</h1>
-<h3 align="center">An enthusiastic DevOps and Site Reliability Engineering (SRE) specialist with leadership skills, hailing from India</h3>
+<h3 align="center">An enthusiastic DevOps and Site Reliability Engineering (SRE) specialist hailing from India</h3>
+"I'm passionate about open source and actively contribute to projects. I've gained invaluable knowledge from the community's collaborative spirit and thrive on sharing insights with others." 
+
+- 💬 ask me about anything, i am happy to help;
+- 💼 Are you looking for freelance DevOps and SRE solutions? do reach, [email](mailto:indraindrajit71@gmail.com) :)
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indraindrajit71&label=Profile%20views&color=0e75b6&style=flat" alt="indraindrajit71" /> </p>
 

@@ -16,8 +16,6 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects and AI projects**
 
-- 🤝 I’m looking for help with **DevOps & SRE**
-
 - 💬 Ask me about **DevOps, Site Reliability Engineering (SRE), and solutioning expertise**
 
 - 📫 How to reach me **indraindrajit71@gmail.com**
